@@ -85,7 +85,4 @@ This project follows a simple implementation of the Page Object Model (POM) desi
  
 **Extra:**
 
-There are two javascript files in folder javascript, one test file - searchAndBook.spec.js and one page object file searchPage.js
-You can use them to overide existing typescript files and run the code in Javascript language.
-
 Just to note, in playwright.config.ts configurational file is changed, I commented out executing test in Firefox and Safari, you can change that if needed.
