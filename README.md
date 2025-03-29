@@ -59,12 +59,7 @@ To run the tests, use the following commands:
 
 •	config/: Contains configuration files, including the prop.properties file that stores the environment variables, such as the BASE_URL.
 
-**Page Object Model (POM)**
 
-This project follows a simple implementation of the Page Object Model (POM) design pattern. The page object is defined in the searchPage.ts file, which includes:
-	•	Locators for all key elements on the page (calendar, buttons, etc.).
-	•	Methods to interact with those elements (e.g., selectCheckIn(), clickOnSearchButton()).
-	•	Methods to validate page state or outcomes (e.g., verifyThatRoomAddedToBasketProperly()).
 
 **Features Demonstrated**
 
