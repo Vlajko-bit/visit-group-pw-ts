@@ -1,0 +1,17 @@
+{
+  "name": "pw-projekat---visit-group",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.51.1",
+    "@types/node": "^22.13.14"
+  },
+  "dependencies": {
+    "properties-reader": "^2.3.0"
+  }
+}
