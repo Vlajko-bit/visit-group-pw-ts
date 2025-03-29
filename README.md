@@ -23,7 +23,7 @@ To install Playwright and the required dependencies, run: `npm install playwrigh
   *Setting Up the Project
 - Clone the repository to your local machine: `git clone https://github.com/Vlajko-bit/visit-group-pw-ts.git`
 - Navigate into the project directory: `cd visit-group-pw-ts`
-- Install the project dependecises: `npm install`
+- Install the project dependecises if needed: `npm install`
 
 **Environment Configuration**
 
